@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project 1",
+    "imageSrc": "project/project.png",
+    "description": "This is a project made of Frontend and Backend which shows all my skills.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://vaman-portfolio-website.netlify.app/",
+    "source": "https://github.com/Vamankumar7997/Vaman_Portfolio_Website_React"
+  },
+  {
+    "title": "Project 2",
+    "imageSrc": "project/project.png",
+    "description": "This is a project made of React which shows all the food receipes.",
+    "skills": ["React", "Javascript", "Bootstrap"],
+    "demo": "https://food-website-responsive-react.netlify.app/",
+    "source": "https://github.com/Vamankumar7997"
+  },
+  {
+    "title": "Project 3",
+    "imageSrc": "project/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Tailwind"],
+    "demo": "https://vaman-react-portfolio.netlify.app/",
+    "source": "https://github.com/Vamankumar7997/Personal_Website_React"
+  }
+]

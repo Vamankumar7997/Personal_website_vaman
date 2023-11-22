@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Front End Developer",
+    "organisation": "Solverines Technologies",
+    "startDate": "Apr, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on UI part for the websites in the Outsystems Platform"
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+
+  {
+    "role": "Front End Web Developer",
+    "organisation": "App Incub Technologies",
+    "startDate": "Sep, 2022",
+    "endDate": "Apr, 2023",
+    "experiences": [
+      "Worked on landing Pages in responsive to support all screens"
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+
+  {
+    "role": "Software Engineer",
+    "organisation": "TCS ",
+    "startDate": "Jan, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on forms creation for the health care websites"],
+    "imageSrc": "history/microsoft.png"
+  }
+]
